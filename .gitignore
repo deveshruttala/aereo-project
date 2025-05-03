@@ -1,0 +1,8 @@
+db.sqlite3
+venv
+__pycache__
+staticfiles/
+/data/
+/tasks/migrations/
+/tasks/__pycache__/
+/tasks/tests/__pycache__/   
