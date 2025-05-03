@@ -228,7 +228,7 @@ http://127.0.0.1:8000/tasks/1/
   "completed": true,
   "date": "2025-05-03"
 }
-
+```
 
 To update a task, send a `PUT` request to the task's URL, replacing `{id}` with the task ID. Include the updated task data in the request body as JSON.
 
